@@ -16,7 +16,10 @@ npm i scroll-follow-tab
 
 ## Usages
 
-Easy for using, syntax just like this:
+Easy for using, Demo here:
+👉 https://codesandbox.io/s/objective-tharp-3zwo8h?file=/src/App.js
+
+or syntax just like this:
 
 ```html
 scrollSpy(menuElement, options)
@@ -51,7 +54,7 @@ If you are giving it a try, make sure that you:
 ### ES6 example
 
 ```js
-import scrollSpy from 'simple-scrollspy'
+import scrollSpy from 'scroll-follow-tab'
 
 const options = {
   sectionClass: '.scrollspy', // Query selector to your sections
