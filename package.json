@@ -1,7 +1,7 @@
 {
-  "name": "simple-scrollspy",
-  "version": "2.2.0",
-  "description": "Simple scrollspy javascript without jQuery, no dependencies.",
+  "name": "scroll-follow-tab",
+  "version": "1.1.0",
+  "description": "Scroll follow tab implemented by javascript, no dependencies.",
   "main": "src/index.js",
   "scripts": {
     "dev": "node_modules/webpack/bin/webpack.js --mode production --watch --progress --hide-modules",
@@ -9,19 +9,20 @@
     "release": "standard-version"
   },
   "repository": {
-    "url": "https://github.com/kimyvgy/simple-scrollspy"
+    "url": "https://github.com/Cong-Hieu/scroll-follow-tab"
   },
   "keywords": [
     "scroll",
-    "scrollspy",
-    "menuspy"
+    "scroll follow tab",
+    "scroll by tab",
+    "tab",
+    "scroll with tab"
   ],
-  "author": "Nguyen Huu Kim <kimnguyen.ict@gmail.com>",
+  "author": "Truong Cong Hieu <hieu.kstn.bk@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kimyvgy/simple-scrollspy/issues"
+    "url": "https://github.com/Cong-Hieu/scroll-follow-tab/issues"
   },
-  "homepage": "https://kimyvgy.github.io/simple-scrollspy/demo",
   "devDependencies": {
     "standard-version": "^9.1.1",
     "terser-webpack-plugin": "^2.3.1",
@@ -30,5 +31,6 @@
   },
   "optionalDependencies": {
     "jump.js": "^1.0.2"
-  }
+  },
+  "dependencies": {}
 }
