@@ -2,7 +2,7 @@
 
 [Simple scrollspy](https://github.com/Cong-Hieu/scroll-follow-tab) is a lightweight javascript library without jQuery,
 no dependencies. It is used to make scrollspy effect for your menu, table of contents, etc.
-Only 1.4Kb.
+Only 21.7Kb.
 
 ## Install
 
