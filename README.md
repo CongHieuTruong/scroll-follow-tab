@@ -146,9 +146,9 @@ $ npm run build
 
 ## Helpful links
 
-- [Documentation](https://kimyvgy.github.io/simple-scrollspy)
-- [Example](https://kimyvgy.github.io/simple-scrollspy/demo)
-- [See on NPM package](https://www.npmjs.com/package/simple-scrollspy)
+- [Documentation](https://github.com/Cong-Hieu/scroll-follow-tab#readme)
+- [Example](https://codesandbox.io/s/objective-tharp-3zwo8h?file=/src/App.js)
+- [See on NPM package](https://www.npmjs.com/package/scroll-follow-tab)
 
 ## Licence
 
